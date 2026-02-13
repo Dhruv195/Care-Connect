@@ -1,0 +1,16 @@
+@media only screen and (max-width: 800px) {
+  div {
+    flex-direction: column;
+  }
+  .adminimg {
+    display: none !important;
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 800px) {
+  /* .eye-icon {
+    transform: translateY(-80%);
+    right: -100px;
+  } */
+}
