@@ -10,7 +10,7 @@ Check out a [live demo](https://careconnects.netlify.app/)
 
 To get started with the application, clone the repository to your local machine:
 
-https://github.com/Aditya1Jhaveri/CareConnect.git
+https://github.com/Dhruv195/CareConnect.git
 
 Once you have cloned the repository, navigate to the project directory and install the dependencies:
 
